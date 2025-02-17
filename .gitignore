@@ -1,0 +1,13 @@
+# Visual Studio
+.vs/
+.vscode/
+.idea/
+bin/
+obj/
+
+# Node.js (אם יש לך צד לקוח ב-React למשל)
+node_modules/
+
+# .NET
+bin/
+obj/

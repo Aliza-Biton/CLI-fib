@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "fib", "mytry\fib.csproj", "{7AD54BE4-3E47-4813-B2D9-79C2E474EBDB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "create-rsp", "create-app\create-rsp.csproj", "{44F62681-0DA9-4F68-94F1-085930F9ADB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AD54BE4-3E47-4813-B2D9-79C2E474EBDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AD54BE4-3E47-4813-B2D9-79C2E474EBDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AD54BE4-3E47-4813-B2D9-79C2E474EBDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AD54BE4-3E47-4813-B2D9-79C2E474EBDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44F62681-0DA9-4F68-94F1-085930F9ADB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44F62681-0DA9-4F68-94F1-085930F9ADB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44F62681-0DA9-4F68-94F1-085930F9ADB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44F62681-0DA9-4F68-94F1-085930F9ADB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67ED443D-B6E0-4390-8599-C96D0B21D72F}
+	EndGlobalSection
+EndGlobal
